@@ -1,2 +1,3 @@
 feature text
 editing in remote
+editing for git pull
