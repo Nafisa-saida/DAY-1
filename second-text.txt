@@ -1,3 +1,4 @@
 feature text
 editing in remote
 editing for git pull
+editing for git fetch
